@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Çağatay Karaduman</h1>
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **node.js**
 
 - 📫 How to reach me **karadumancagatay@gmail.com**
 
