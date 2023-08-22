@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Çağatay KARADUMAN</h1>
 <h3 align="center">Mechatronics Engineer | Aspring Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cgtykrdmn" alt="cgtykrdmn" /></a> </p>
-
 - 🌱 I’m currently learning **Node.JS**
 
 - 📫 How to reach me **karadumancagatay@gmail.com**
