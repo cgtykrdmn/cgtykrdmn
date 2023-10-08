@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Çağatay KARADUMAN</h1>
 <h3 align="center">Mechatronics Engineer | Aspring Developer</h3>
 
-- 🔭 I’m currently working on [LensLight Project](https://github.com/cgtykrdmn/lenslight)
-
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **karadumancagatay@gmail.com**
 
